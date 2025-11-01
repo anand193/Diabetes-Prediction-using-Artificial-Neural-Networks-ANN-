@@ -47,9 +47,8 @@ Architecture:
 --- 
 
 ## ⚙️ Model Performance
-Metric	Training Set	Test Set
-Accuracy	~80%	~75%
-Loss	Low Binary Crossentropy	Low Binary Crossentropy
+- Training Set	- 	~80%
+- Test Set -	~75%
 
 --- 
 
